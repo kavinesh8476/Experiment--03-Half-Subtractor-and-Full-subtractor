@@ -66,7 +66,7 @@ assign Borrow = ((p&B)|(p&C)|(B&C));
 endmodule
 ```
 ## Output:
-## HALF ADDER:
+## HALF SUBTRACTOR:
 ## Truthtable
 ![image](https://user-images.githubusercontent.com/118466561/231668719-c365e655-bd19-469d-835c-f6520b608e3f.png)
 ##  RTL realization
@@ -74,7 +74,7 @@ endmodule
 
 ## Timing diagram 
 ![hswf](https://user-images.githubusercontent.com/118466561/231668976-d241f14b-eefe-4bc9-9fb0-a0eddc40a888.png)
-## FULL ADDER:
+## FULL SUBTRACTOR:
 ## Truthtable
 ![image](https://user-images.githubusercontent.com/118466561/231669196-6870977a-62b1-4ce8-8090-8e913fb0ec2d.png)
 
